@@ -1,6 +1,6 @@
 {
-  "name":"ANDBAD MD",
-  "description":"Deploy now your bot, ANDBAD was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
+  "name":"MOE==>MD",
+  "description":"Deploy now your bot, MOE was developed by MrMoe himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/L4U2K76.jpeg",
   "repository":"https://github.com/Mrandbad/ANDBAD-MD-V1",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" ANDBAD MD",
+      "value":" MOE==>MD",
       "required":false
 
     } ,
@@ -74,16 +74,16 @@
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
-    "required": false,
-    "value": "ANDBAD TEAM SUPPORT"
+    "desc": "Moeee==>",
+    "required": true,
+    "value": "MOEE TEAM SUPPORT"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255768318788,255734980103"
+    "value": "14143066181,14143066181"
   },
     "WARN_COUNT":
   {
@@ -104,8 +104,8 @@
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
-    "required": false
+    "value": "yes",
+    "required": true
   }
   },
 
